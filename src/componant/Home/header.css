@@ -1,0 +1,121 @@
+header{
+    background: url(../../imegs/header6.jpg) center no-repeat ;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 96vh;
+
+    color: #fff;
+}
+h2{
+    color: #a82d49 !important;
+}
+header h1{
+    font-size: 50px;
+    line-height: 60px;
+
+}
+ #order{
+    border: #a82d49 solid 3px;
+    background-color: #a82d49; 
+    color: #fff !important;
+}
+ #order:hover{
+    background-color: #fff ;
+    color: #a82d49 !important;
+    transition: .2s ease-in-out;
+}
+#lern{
+    border: transparent solid 3px;
+    background-color: #fff; 
+    color: #000 ;
+}
+#lern:hover{
+    border: #a82d49 solid 3px;
+
+    background-color: #fff ;
+    color: #a82d49 !important;
+    transition: .2s ease-in-out;
+}
+
+/* reate */
+#reate{
+    background-color: #a82d49;
+    color: #fff;
+}
+#lernMoreAbout{
+    border: #a82d49 solid 3px;
+    background-color: #a82d49; 
+    color: #fff !important; 
+}
+
+#lernMoreAbout:hover{
+    background-color: #fff ;
+    color: #a82d49 !important;
+    transition: .2s ease-in-out;
+
+}
+li{
+    list-style: none;
+}
+/* ------------------------ */
+.paralex{
+background:url(../../imegs/pralex5.jpg)no-repeat;
+background-size: cover;
+width: 100%;
+max-width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-size: large;
+    font-weight: 500;
+}
+a:hover{
+    color: #a82d49;
+    transition: .2s ease-in-out;
+}
+/* ------------------------ */
+#blog{
+    border: #a82d49 solid 3px;
+    background-color: #a82d49; 
+    color: #fff !important; 
+}
+
+#blog:hover{
+    background-color: #fff ;
+    color: #a82d49 !important;
+    transition: .2s ease-in-out;
+
+}
+/* =============slider============= */
+#slider{
+    background-color: #a82d49;
+}
+#slider img{
+width: 100px;
+height: 100px;
+}
+.carousel-indicators button{
+    border: none;
+    width: 15px !important;
+    height: 15px !important;
+    font-size: 0px !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    
+    background-color: #a82d49 !important;
+  
+}
+.carousel-control-prev-icon {
+    display: none;
+}
+.carousel-control-next-icon {
+    display: none;
+}
+/* ========================== */
+#footer{
+    background-color: #a82d49;
+}
+   
